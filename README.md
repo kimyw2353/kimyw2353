@@ -25,6 +25,6 @@
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></span>
 
-## ✏️ Blog For Learning - <a href="https://jaelyaeldev.tistory.com/">사진으로 사기치는 개발자</a>
+## ✏️ Blog For Learning - <a href="https://jaelyaeldev.tistory.com/">말라비틀어진 도라지</a>
 <!--
 ## 📝 Portfolio Website - <a href="">Go</a>-->
